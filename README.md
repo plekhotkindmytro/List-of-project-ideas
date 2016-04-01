@@ -16,3 +16,5 @@
 14. Mail server project
 15. *** Management System (Water, Hotel, Bookstore, School, Shop, Gym, Propery, Course, Client, Task etc)
 16. Web Server
+17. Games: http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
+18. 
