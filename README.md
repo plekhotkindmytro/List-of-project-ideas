@@ -17,4 +17,6 @@
 15. *** Management System (Water, Hotel, Bookstore, School, Shop, Gym, Propery, Course, Client, Task etc)
 16. Web Server
 17. Games: http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
-18. 
+18. Text Game
+19. Sentense gemerator
+20. 
