@@ -19,4 +19,11 @@
 17. Games: http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
 18. Text Game
 19. Sentense gemerator
-20. 
+20. Battleship
+21. Insert sort algorithm http://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort
+22. Tree_traversal: http://rosettacode.org/wiki/Tree_traversal#Java
+23. Game of life http://rosettacode.org/wiki/Conway%27s_Game_of_Life
+24. Metronome http://rosettacode.org/wiki/Metronome
+25. http://rosettacode.org/wiki/Maze_solving
+26. http://rosettacode.org/wiki/Maze_generation
+27. 
