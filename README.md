@@ -24,6 +24,6 @@
 22. Tree_traversal: http://rosettacode.org/wiki/Tree_traversal#Java
 23. Game of life http://rosettacode.org/wiki/Conway%27s_Game_of_Life
 24. Metronome http://rosettacode.org/wiki/Metronome
-25. http://rosettacode.org/wiki/Maze_solving
-26. http://rosettacode.org/wiki/Maze_generation
-27. 
+25. Maze solving: http://rosettacode.org/wiki/Maze_solving
+26. Maze generation: http://rosettacode.org/wiki/Maze_generation
+27. Fractals: http://fractalworld.xaoc.ru/
